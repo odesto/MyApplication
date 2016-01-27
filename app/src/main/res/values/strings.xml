@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sfotipy</string>
+    <string name="welcome_text">La musica que te gusta, donde sea</string>
+    <string name="welcome_text_footer">Se parte del proyecto en mejorando.la/sfotipy</string>
+</resources>
